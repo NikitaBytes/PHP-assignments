@@ -1,0 +1,74 @@
+{
+    "results": [
+        {
+            "username": "john_doe",
+            "score": 80,
+            "correct_answers": 4,
+            "total": 5,
+            "date": "2025-03-10 20:17:06"
+        },
+        {
+            "username": "alice_smith",
+            "score": 100,
+            "correct_answers": 5,
+            "total": 5,
+            "date": "2025-03-10 21:15:23"
+        },
+        {
+            "username": "mike_brown",
+            "score": 60,
+            "correct_answers": 3,
+            "total": 5,
+            "date": "2025-03-10 22:30:45"
+        },
+        {
+            "username": "emma_wilson",
+            "score": 40,
+            "correct_answers": 2,
+            "total": 5,
+            "date": "2025-03-11 09:12:33"
+        },
+        {
+            "username": "david_clark",
+            "score": 100,
+            "correct_answers": 5,
+            "total": 5,
+            "date": "2025-03-11 10:45:18"
+        },
+        {
+            "username": "sarah_jones",
+            "score": 80,
+            "correct_answers": 4,
+            "total": 5,
+            "date": "2025-03-11 14:20:55"
+        },
+        {
+            "username": "peter_white",
+            "score": 60,
+            "correct_answers": 3,
+            "total": 5,
+            "date": "2025-03-11 15:33:42"
+        },
+        {
+            "username": "lisa_taylor",
+            "score": 100,
+            "correct_answers": 5,
+            "total": 5,
+            "date": "2025-03-11 16:48:30"
+        },
+        {
+            "username": "james_miller",
+            "score": 40,
+            "correct_answers": 2,
+            "total": 5,
+            "date": "2025-03-11 18:05:12"
+        },
+        {
+            "username": "anna_green",
+            "score": 80,
+            "correct_answers": 4,
+            "total": 5,
+            "date": "2025-03-11 19:25:08"
+        }
+    ]
+}

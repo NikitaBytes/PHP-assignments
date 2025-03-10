@@ -1,0 +1,54 @@
+{
+    "questions": [
+      {
+        "text": "Какой язык программирования используется для создания веб-приложений?",
+        "type": "single",
+        "options": [
+          {"text": "PHP", "correct": true},
+          {"text": "Python", "correct": false},
+          {"text": "Java", "correct": false},
+          {"text": "C#", "correct": false}
+        ]
+      },
+      {
+        "text": "Какая технология отвечает за стилизацию веб-страниц?",
+        "type": "single",
+        "options": [
+          {"text": "HTML", "correct": false},
+          {"text": "CSS", "correct": true},
+          {"text": "JavaScript", "correct": false},
+          {"text": "PHP", "correct": false}
+        ]
+      },
+      {
+        "text": "Выберите языки программирования:",
+        "type": "multiple",
+        "options": [
+          {"text": "PHP", "correct": true},
+          {"text": "Python", "correct": true},
+          {"text": "HTML", "correct": false},
+          {"text": "CSS", "correct": false}
+        ]
+      },
+      {
+        "text": "Какой протокол используется для передачи данных в интернете?",
+        "type": "single",
+        "options": [
+          {"text": "FTP", "correct": false},
+          {"text": "HTTP", "correct": true},
+          {"text": "SMTP", "correct": false},
+          {"text": "POP3", "correct": false}
+        ]
+      },
+      {
+        "text": "Выберите инструменты для контроля версий:",
+        "type": "multiple",
+        "options": [
+          {"text": "Git", "correct": true},
+          {"text": "SVN", "correct": true},
+          {"text": "Docker", "correct": false},
+          {"text": "Jenkins", "correct": false}
+        ]
+      }
+    ]
+  }
